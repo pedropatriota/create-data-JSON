@@ -1,4 +1,6 @@
-import Repository from "./Repository";
-import FavoriteRepository from "./FavoriteRepository";
+import Button from "./Button";
+import Dropdown from "./Dropdown";
+import Input from "./Input";
+import Template from "./Template";
 
-export { Repository, FavoriteRepository };
+export { Button, Dropdown, Input, Template };

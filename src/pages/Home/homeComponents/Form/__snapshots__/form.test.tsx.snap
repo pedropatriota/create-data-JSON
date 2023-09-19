@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test Form Component should match snapshot 1`] = `
+<div>
+  <label
+    for="addresses"
+  >
+    Addresses (lat, long)
+    <div
+      class="sc-fqkvVR bGSaWp"
+    >
+      <div
+        class="sc-dcJsrY hsPXea"
+      >
+        <input
+          class="sc-iGgWBj csJhxu"
+          id="latitude"
+          name="latitude"
+          placeholder="Latitude"
+          required=""
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+    <div
+      class="sc-fqkvVR bGSaWp"
+    >
+      <div
+        class="sc-dcJsrY hsPXea"
+      >
+        <input
+          class="sc-iGgWBj csJhxu"
+          id="longitude"
+          name="longitude"
+          placeholder="Longitude"
+          required=""
+          type="text"
+          value=""
+        />
+      </div>
+    </div>
+  </label>
+</div>
+`;

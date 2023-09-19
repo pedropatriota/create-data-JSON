@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dropdown component should match the snapshot 1`] = `
+<div>
+  <div
+    class="sc-aXZVg hARIdx"
+  >
+    <div
+      class="sc-gEvEer jAlFUl"
+    >
+      <input
+        class="sc-eqUAAy ibKdRY"
+        value="45"
+      />
+    </div>
+  </div>
+</div>
+`;

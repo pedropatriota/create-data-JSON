@@ -27,16 +27,11 @@
       "jest",
       "@testing-library/jest-dom"
     ],
-    "baseUrl": ".",
-    "paths": {
-      "@/*": [
-        "src/*"
-      ]
-    }
+    "baseUrl": "."
   },
   "include": [
     "src",
     "jest.setup.ts",
-    "vite.config.ts"
+    "vite.config.ts",
   ]
 }
